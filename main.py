@@ -1,4 +1,0 @@
-import helloWorld
-
-helloWorld.hello()
-
